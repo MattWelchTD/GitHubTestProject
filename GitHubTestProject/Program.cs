@@ -7,6 +7,7 @@ namespace GitHubTestProject
 {
     static class Program
     {
+        /// another comment line here 
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
