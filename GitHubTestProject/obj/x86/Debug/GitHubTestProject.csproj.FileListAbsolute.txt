@@ -1,0 +1,8 @@
+C:\Users\mattw\OneDrive - TGE Gas Engineering GmbH 1\GitHubTestProject\GitHubTestProject\bin\Debug\GitHubTestProject.exe
+C:\Users\mattw\OneDrive - TGE Gas Engineering GmbH 1\GitHubTestProject\GitHubTestProject\bin\Debug\GitHubTestProject.pdb
+C:\Users\mattw\OneDrive - TGE Gas Engineering GmbH 1\GitHubTestProject\GitHubTestProject\obj\x86\Debug\GitHubTestProject.csprojResolveAssemblyReference.cache
+C:\Users\mattw\OneDrive - TGE Gas Engineering GmbH 1\GitHubTestProject\GitHubTestProject\obj\x86\Debug\GitHubTestProject.Properties.Resources.resources
+C:\Users\mattw\OneDrive - TGE Gas Engineering GmbH 1\GitHubTestProject\GitHubTestProject\obj\x86\Debug\GitHubTestProject.csproj.GenerateResource.Cache
+C:\Users\mattw\OneDrive - TGE Gas Engineering GmbH 1\GitHubTestProject\GitHubTestProject\obj\x86\Debug\GitHubTestProject.exe
+C:\Users\mattw\OneDrive - TGE Gas Engineering GmbH 1\GitHubTestProject\GitHubTestProject\obj\x86\Debug\GitHubTestProject.pdb
+C:\Users\mattw\OneDrive - TGE Gas Engineering GmbH 1\GitHubTestProject\GitHubTestProject\obj\x86\Debug\GitHubTestProject.Form1.resources
