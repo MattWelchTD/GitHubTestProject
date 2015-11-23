@@ -17,5 +17,7 @@ namespace GitHubTestProject
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+        
+        // another coment merely for testing files changes
     }
 }
